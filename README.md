@@ -5,6 +5,7 @@ Jogo de rodovia em **Python + tkinter** em que quem dirige é um **LLM local** (
 - Sem dependências externas: só a biblioteca padrão do Python + tkinter.
 - Chamadas ao modelo em thread separada: a simulação nunca congela esperando a resposta.
 - Painel de telemetria com latência, diário de decisões e histograma de comandos.
+- Precisa subir o container Docker do Laya.
 
 ## Requisitos
 
