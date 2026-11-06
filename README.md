@@ -7,6 +7,7 @@ Jogo de rodovia em **Python + tkinter** em que quem dirige é um **LLM local** (
 - Painel de telemetria com latência, diário de decisões e histograma de comandos.
 - Precisa subir o container Docker do Laya.
 
+
 ## Requisitos
 
 - Python 3.8+ com tkinter (Windows e macOS já trazem; no Debian/Ubuntu: `sudo apt install python3-tk`).
